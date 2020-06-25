@@ -16,6 +16,7 @@ video_capture.set(10, 120)
 
 # Create VideoWriter
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
+# Set camera resolution
 cameraResolution = (640, 480)
 #Save video
 out = cv2.VideoWriter('records/output.avi', fourcc, 20.0, cameraResolution)
