@@ -19,3 +19,7 @@ Go to line 19 and set cameraResolution to your camera resolution, it must be in 
 ![image](https://user-images.githubusercontent.com/42913703/85721831-01fe3800-b6f2-11ea-9868-f092a025160b.png)
 
 Now you can execute the script, a window will popup. You can close the program by pressing q.
+
+After you have closed the program, a file with the name output.avi appears in the records folder.
+
+![image](https://user-images.githubusercontent.com/42913703/85722726-ddef2680-b6f2-11ea-832e-0df4ff9006ba.png)
